@@ -18,7 +18,7 @@ const CartaPostal = () => {
     };
 
     useEffect(() => {
-        setFechaActual(obtenerFecha());
+        setFechaActual(obtenerFecha())
     }, []);
 
     return (
