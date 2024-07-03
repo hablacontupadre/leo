@@ -37,7 +37,7 @@ const CartaPostal = () => {
 
                     Creemos un Mercado Común Hispanoamericano ya! De manera orgánica España sería un hub logístico. España sería la puerta de entrada de mercancías a la Unión Europea. Las rutas marítimas serían más cortas y se amortizaría la inversión en AVE. Por no decir que seríamos imparables tanto cultural como económicamente.
 
-                    Puedes hablar con tu padre y comentárselo?
+                    ¿Puedes hablar con tu padre y comentárselo?
 
                     ¡Un abrazote!
                 </div>
