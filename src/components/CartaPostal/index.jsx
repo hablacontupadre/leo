@@ -28,7 +28,7 @@ const CartaPostal = () => {
                     Madrid, {fechaActual}
                 </div>
                 <div className="mb-6 text-xl">
-                    Querida Sofía,
+                    Querida Leonor,
                 </div>
                 <div className="mb-6 leading-relaxed">
                     ¡Hola desde Madrid! Espero que todo vaya bien.
