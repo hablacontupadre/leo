@@ -35,7 +35,7 @@ const CartaPostal = () => {
 
                     Llevo un tiempo pensando que podríamos ser la punta de lanza europea de toda Hispoamérica.
 
-                    Creemos un Mercado Común Hispanoamericano y, de manera orgánica, España se convertirá un hub logístico. España sería la puerta de entrada de mercancías a la Unión Europea. Las rutas marítimas serían más cortas y se amortizaría la inversión en AVE. Por no decir que seríamos imparables tanto cultural como económicamente.
+                    Creemos un Mercado Común Hispanoamericano y, de manera orgánica, España se convertirá un hub logístico. Seríamos la puerta de entrada de mercancías a la Unión Europea. Las rutas marítimas serían más cortas y se amortizaría la inversión en AVE. Por no decir que seríamos imparables tanto cultural como económicamente.
 
                     ¿Puedes hablar con tu padre y comentárselo?
                 </div>
