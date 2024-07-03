@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/leo/static/css/main.59ac8578.css",
+    "main.js": "/leo/static/js/main.c9ba3e98.js",
+    "static/js/215.b5165f1b.chunk.js": "/leo/static/js/215.b5165f1b.chunk.js",
+    "index.html": "/leo/index.html",
+    "main.59ac8578.css.map": "/leo/static/css/main.59ac8578.css.map",
+    "main.c9ba3e98.js.map": "/leo/static/js/main.c9ba3e98.js.map",
+    "215.b5165f1b.chunk.js.map": "/leo/static/js/215.b5165f1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ac8578.css",
+    "static/js/main.c9ba3e98.js"
+  ]
+}
