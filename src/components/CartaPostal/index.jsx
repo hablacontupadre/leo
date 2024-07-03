@@ -39,7 +39,7 @@ const CartaPostal = () => {
 
                     ¿Puedes hablar con tu padre y comentárselo?
 
-                    ¡Un abrazote!
+                    ¡Un abrazo!
                 </div>
                 <div className="text-right text-xl">
                     España
